@@ -5,7 +5,7 @@ from sklearn.neighbors import NearestNeighbors
 
 def DDTAD(datas, types, K=20, c=0.001):
     """
-    Data-driven Dominance Tree-based mixed attribute Anomaly Detection
+    Data-driven Dominance Tree-based Anomaly Detection (DDTAD) for mixed attribute data
 
     Parameters:
     -----------
