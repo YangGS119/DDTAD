@@ -1,1 +1,1 @@
-The Code for Data-Driven Dominance Tree-Based Mixed Attribute Anomaly Detection.
+The Code for Data-Driven Dominance Tree-Based Anomaly Detection for Mixed Attribute Data.
